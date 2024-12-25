@@ -17,19 +17,19 @@ export const AboutSection = () => {
             </h2>
             <div className="space-y-4 text-lg text-gray-600">
               <p>
-                Interpretable Machine Learning represents a revolutionary approach to artificial intelligence that prioritizes transparency and understanding. Unlike traditional "black box" AI systems, our platform provides clear insights into how models make decisions, enabling businesses to build trust with stakeholders and comply with regulatory requirements.
+                Interpretable Machine Learning focuses on making artificial intelligence systems transparent and understandable. Unlike traditional "black box" AI systems, interpretable ML provides insights into how models arrive at their decisions.
               </p>
               <p>
-                By leveraging advanced visualization techniques and proprietary algorithms, we transform complex neural networks into comprehensible insights. This transparency is crucial for industries where decision-making processes must be auditable and explainable, such as healthcare, finance, and autonomous systems.
+                This transparency is particularly relevant for industries where decision-making processes must be auditable and explainable, such as healthcare, finance, and autonomous systems.
               </p>
               <p>
-                Our platform empowers data scientists and business analysts to:
+                Key aspects of interpretable machine learning include:
               </p>
               <ul className="list-disc pl-6 space-y-2">
-                <li>Visualize decision pathways in neural networks</li>
-                <li>Identify and mitigate bias in AI models</li>
-                <li>Generate human-readable explanations for model predictions</li>
-                <li>Ensure compliance with AI regulations and guidelines</li>
+                <li>Understanding decision pathways in neural networks</li>
+                <li>Identifying potential biases in AI models</li>
+                <li>Analyzing feature importance and model behavior</li>
+                <li>Meeting regulatory requirements for AI transparency</li>
               </ul>
             </div>
           </div>
